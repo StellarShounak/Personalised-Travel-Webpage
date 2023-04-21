@@ -1,4 +1,5 @@
-Travel Website Frontend with React JS
+# Travel Website Frontend with React JS
+
 This is the frontend web page for a travel website, built using React JS. It includes a responsive design that is optimized for both desktop and mobile devices. The page features a navigation bar, hero section, search form, and a list of featured destinations. The code is organized using components and follows best practices for React development.
 
 Link to this Website: https://stellar-travels-101.netlify.app/
